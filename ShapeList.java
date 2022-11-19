@@ -33,7 +33,7 @@ public class ShapeList {
     }
 
     void adduser(String name) {
-        User alpha = new User(name);
-        users.add(alpha);
+        User userName = new User(name);
+        users.add(userName);
     }
 }
