@@ -8,7 +8,7 @@ public class ShapeGenerator extends JPanel {
     ProtoShapes shape;
     int index;
 
-    public void paint(Graphics g) {
+    public void repaint(Graphics g) {
     }
 
 }
